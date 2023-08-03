@@ -11,7 +11,7 @@ The aim of this project is to allow users to easily make hotel reservations and 
 - Database : MS SQL Server
 - ORM Tool : Entity Framework Core
 - Front-End : CSS, Bootstrap, HTML
-- Project Content: Asp.Net Core API, Asp.Net Identity, API Consumption, Rapid API, Login, Register, AspNet Core 5.0, Fluent Validation, N Tier Architecture, DTO Layer, MVC, Entity Framework Core, Repository Design Pattern, Email Sending Operations
+- Project Content: Asp.Net Core API, Asp.Net Identity, API Consumption, Rapid API, Login, Register, AspNet Core 6.0, Fluent Validation, N Tier Architecture, DTO Layer, MVC, Entity Framework Core, Repository Design Pattern, Email Sending Operations
 
 # Otel Reservation Website App Video
 
